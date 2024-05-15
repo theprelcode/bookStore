@@ -1,0 +1,298 @@
+[
+    {
+        "id":1,
+        "name":"The Hidden Hindu",
+        "title":"Myths, Legends & Sagas",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81ZI8RyyynL._SY425_.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Samsara: Enter The Valley Of The Gods",
+        "title":"Contemporary Fiction",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/91UkHHIjAjL._SY425_.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"Harry Potter and the Philosopher's Stone",
+        "title":"Adventure",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81m9fP+LIPL._UX300_PJprime-reading,TopRight,0,-50._AC._SR360,460_.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Harry Potter and the Chamber of Secrets",
+        "title":"Adventure",
+        "price":450,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81Wbfijio4L._SY425_.jpg"
+    },
+    
+    {
+        "id":5,
+        "name":"Harry Potter and the Prisoner of Azkaban",
+        "title":"Adventure",
+        "price":480,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81y-3oSkxGL._SY425_.jpg"
+    },
+    
+    {
+        "id":6,
+        "name":"Harry Potter and the Goblet of Fire",
+        "title":"Adventure",
+        "price":450,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81YoazRCtBL._SY425_.jpg"
+    },
+    
+    {
+        "id":7,
+        "name":"Harry Potter and the Order of the Phoenix",
+        "title":"Adventure",
+        "price":500,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/816DPd8HNBL._SY425_.jpg"
+    },
+    
+    {
+        "id":8,
+        "name":"Harry Potter and the Half-Blood Prince",
+        "title":"Adventure",
+        "price":450,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/813zbNPhO5L._SY425_.jpg"
+    },
+    
+    {
+        "id":9,
+        "name":"Harry Potter and the Deathly Hallows",
+        "title":"Adventure",
+        "price":470,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81qmfY6mMrL._SY425_.jpg"
+    },
+
+    {
+        "id":10,
+        "name":"A Thousand Splendid Suns",
+        "title":"Literature",
+        "price":350,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81NTH53P19L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+
+    {
+        "id":11,
+        "name":"And the Mountains Echoed",
+        "title":"Literature",
+        "price":499,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71PoHO-3m9L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    
+    {
+        "id":12,
+        "name":"The Kite Runner",
+        "title":"Literature",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81QSukPYvML._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    
+    {
+        "id":13,
+        "name":"Sea Prayer: The Sunday Times and New York Times Bestseller",
+        "title":"Literature",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/91zyIaAH1PL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+
+    {
+        "id":14,
+        "name":"MADAM COMMISSIONER: The Extraordinary Life of an Indian Police Chief",
+        "title":"Biography",
+        "price":290,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71G-j6Y6riL._SY425_.jpg"
+    },
+
+    {
+        "id":15,
+        "name":"Ratan Tata A Complete Biography",
+        "title":"Biography",
+        "price":50,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71ppIPqdYNL._SY425_.jpg"
+    },
+
+    {
+        "id":16,
+        "name":"सुकरात (Hindi Edition)",
+        "title":"Biography",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71tLbsYa17L._SY425_.jpg"
+    },
+
+    {
+        "id":17,
+        "name":"Man's Search For Meaning: The classic tribute to hope from the Holocaust",
+        "title":"Biography",
+        "price":200,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/61nTspM+BYL._SY425_.jpg"
+    },
+
+    {
+        "id":18,
+        "name":"House of Flame and Shadow",
+        "title":"Action & Adventure",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/91JjndepsqL._SY425_.jpg"
+    },
+
+    {
+        "id":19,
+        "name":"The Cruel Prince (The Folk of the Air)",
+        "title":"Action & Adventure",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/716eT7oSHnL._SY425_.jpg"
+    },
+
+    {
+        "id":20,
+        "name":"The Mayor of Casterbridge",
+        "title":"Action & Adventure",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81JjWOZi5AL._SY425_.jpg"
+    },
+
+    {
+        "id":21,
+        "name":"The Art of War",
+        "title":"Action & Adventure",
+        "price":200,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71Xpd1xEKcL._SY425_.jpg"
+    }
+    ,
+
+    {
+        "id":22,
+        "name":"Razor Sharp - A Kutta Kadam Thriller",
+        "title":"Literature",
+        "price":400,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81BGxeaVz9L._AC_UY327_FMwebp_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":23,
+        "name":"The Lost Bookshop",
+        "title":"Action & Adventure",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/91Sy3S-198L._AC_UY327_FMwebp_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":24,
+        "name":"A Man Called Ove",
+        "title":"Fiction",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81DXIOk9glL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":25,
+        "name":"Girl Who Drank The Moon",
+        "title":"Literature",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/7138zaESFhL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":26,
+        "name":"That Night: Four Friends, Twenty Years,",
+        "title":"Fiction",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81b1PP4RK1L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+
+    {
+        "id":27,
+        "name":"Never Lie : A Totally Gripping Thriller with Mind-bending Twists",
+        "title":"Thriller",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81+ceFx9BcL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":28,
+        "name":"The Grandfather’s Mystery",
+        "title":"Action & Adventure",
+        "price":400,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81U1tV55dlL._AC_UY327_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":29,
+        "name":"The Idiot",
+        "title":"Action & Adventure",
+        "price":200,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/810HmHnuiQL._AC_UY327_QL65_.jpg"
+    }
+    ,
+
+    {
+        "id":30,
+        "name":"The Everyday Hero Manifesto ",
+        "title":"Action & Adventure",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/815tOaVXmHL._SY342_.jpg"
+    }
+    ,
+
+    {
+        "id":31,
+        "name":"The Palace of Illusions",
+        "title":"Fiction",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/A1dtQ-soQEL._AC_UY327_QL65_.jpg"
+    },
+
+    {
+        "id":32,
+        "name":"AN ANATOMY OF A WOUNDED SOUL",
+        "title":"Literature",
+        "price":400,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/31g3QDGnZjL._AC_UY327_QL65_.jpg"
+    }
+]
